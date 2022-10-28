@@ -35,11 +35,11 @@ in ``` ~/.doom.d/config.el```
 add the tow lines : 
 
 ```
-(load! "epitech/std.el")
-(load! "epitech/std_comment.el")
+(load! "std.el")
+(load! "std_comment.el")
 ```
 
-get the "epitech" folder in the repos and put it in : 
+get the two .el files in the repos and put it in : 
 
 
 ```~/.doom.d/```
