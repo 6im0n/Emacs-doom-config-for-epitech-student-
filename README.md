@@ -1,5 +1,11 @@
 # Emacs-doom-config
 
+To install doom emacs :
+
+```
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.emacs.d
+~/.emacs.d/bin/doom install
+```
 
 To activate mouse control in doom emacs
 
