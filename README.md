@@ -1,13 +1,13 @@
 # Emacs-doom-config
 
-To install doom emacs :
+#1 To install doom emacs :
 
 ```
 git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.emacs.d
 ~/.emacs.d/bin/doom install
 ```
 
-To activate mouse control in doom emacs
+#1 To activate mouse control in doom emacs
 
 edit the file below : 
 
@@ -34,7 +34,7 @@ install package.
 you're done ! you now have the mouse control in your emacs-nox 
 
 
-for epitech student: (add the snippet hedear plugin to doom emacs) 
+#1 for epitech student: (add the snippet hedear plugin to doom emacs) 
 
 in ``` ~/.doom.d/config.el```
 
