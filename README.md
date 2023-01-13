@@ -1,6 +1,6 @@
 # Emacs-doom-config
 
-**To install doom emacs :**
+**To install doom emacs (for epitech student) :**
 
 ```
 git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.emacs.d
